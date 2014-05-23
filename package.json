@@ -1,0 +1,23 @@
+{
+  "name": "scrumptious",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "ejs": "*",
+    "step": "0.0.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-concurrent": "~0.5.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-csslint": "^0.2.0",
+    "grunt-contrib-cssmin": "^0.9.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-env": "^0.4.1",
+    "grunt-nodemon": "0.2.1"
+  }
+}
